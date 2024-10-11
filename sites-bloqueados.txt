@@ -1,0 +1,37 @@
+!
+! Title: AdAway Default Blocklist
+! Description: Open-source ad blocker for Android using the hosts file
+! Homepage: https://github.com/AdAway/adaway.github.io/
+! Last modified: 2023-11-21T17:45:17.050Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.23
+!
+!
+! Source name: AdAway Default Blocklist
+! Source: https://adaway.org/hosts.txt
+!
+
+# [163.com]
+127.0.0.1 analytics.163.com
+127.0.0.1 crash.163.com
+127.0.0.1 iad.g.163.com
+
+# [1mobile.com]
+127.0.0.1 api4.1mobile.com
+
+# [1rx.io]
+127.0.0.1 sync.1rx.io
+127.0.0.1 tag.1rx.io
+
+# [206ads.com]
+127.0.0.1 s.206ads.com
+
+# [247-inc.net]
+127.0.0.1 api.247-inc.net
+127.0.0.1 tie.247-inc.net
+
+# [247realmedia.com]
+127.0.0.1 247realmedia.com
+
+# [itaconect.com.br]
+127.0.0.1 itaconect.com.br
